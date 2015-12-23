@@ -2,6 +2,7 @@ name: tomduke
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.50469
+title: Spoke.
 cta:
   domain: null
   bucket: null
