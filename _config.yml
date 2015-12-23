@@ -1,7 +1,7 @@
 name: tomduke
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.50469
+typography_spectrum: 0.86022
 title: Spoke.
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#cfd8d9'
     - '#64241b'
   brandStrength: 0.5
-  lightness: 0.15663530165329576
-  saturation: 0.9563610672485083
-  rhythmicContrast: 0.3695636438205838
+  lightness: 1
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
